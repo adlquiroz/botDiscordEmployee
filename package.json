@@ -1,0 +1,19 @@
+{
+  "name": "botdiscordjs",
+  "version": "1.0.0",
+  "description": "BOT TO SEARCH FOR JOBS IN CHIAPAS",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adlquirozcontacto",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.9.0",
+    "@discordjs/rest": "^2.4.0",
+    "axios": "^1.7.7",
+    "discord-api-types": "^0.37.100",
+    "discord.js": "^14.16.1"
+  }
+}
